@@ -6,4 +6,4 @@ pipeline {
                 sh 'mvn -B clean verify'
             }
         }
-    
+    }
